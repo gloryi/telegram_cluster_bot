@@ -1,0 +1,14 @@
+{
+	"variations":
+		[
+			{"sub_name":"regular",
+			 "params":[
+				{"n":1}
+		]},
+			{"sub_name":"tweaked",
+		     "params":[
+				{"n":10}
+			]}
+
+	]
+}

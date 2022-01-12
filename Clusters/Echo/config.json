@@ -1,0 +1,6 @@
+{
+	"name":"Echo",
+	"type":"External",
+	"params_list":["n"],
+	"keywords":["Repeat", "Echo"]
+}
