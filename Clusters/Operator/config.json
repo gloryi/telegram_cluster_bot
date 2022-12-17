@@ -1,0 +1,6 @@
+{
+	"name":"Operator",
+	"type":"External",
+	"params_list":["n"],
+	"keywords":["Write", "Log", "Remember", "Recall"]
+}

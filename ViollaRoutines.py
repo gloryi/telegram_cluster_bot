@@ -4,7 +4,7 @@ from Core.Planner import *
 from Core.ClusterController import *
 
 ALLOW_NEW_USERS  = False
-TOKEN 			 = "TELEGRAM_TOKEN"
+TOKEN 			 = "2046529272:AAFmsbrvvyeh8KiTTcS4lRn6bFQUAxS2OXs"
 PATH_TO_CLUSTERS = os.path.join(os.getcwd(), "Clusters")
 PATH_TO_PLANNER  = os.path.join(PATH_TO_CLUSTERS, "Planner")
 

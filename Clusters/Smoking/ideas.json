@@ -1,0 +1,14 @@
+{
+	"variations":
+		[
+			{"sub_name":"calm",
+			 "params":[
+				{"nasty":1}
+		]},
+			{"sub_name":"anxious",
+		     "params":[
+				{"nasty":10}
+			]}
+
+	]
+}
